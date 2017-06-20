@@ -1,2 +1,2 @@
-hello,java!
+hello,whale!
 hello,word!
